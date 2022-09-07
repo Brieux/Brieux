@@ -3,7 +3,7 @@
 
 - Je suis actuellement étudiant à **l'ETPA**
 
-- Mon site est [https://brieux.github.io/Portfolio](https://brieux.github.io/Portfolio)
+- Mon portofolio est [https://brieux.github.io/Portfolio](https://brieux.github.io/Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
