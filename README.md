@@ -1,5 +1,5 @@
 <h1 align="center">Salut, je m'appelle Brieux Caquelin</h1>
-<h3 align="center">Unreal Gameplay Programmer</h3>
+<h3 align="center">Gameplay Programmer</h3>
 
 - Je suis actuellement étudiant à **l'ETPA**
 
