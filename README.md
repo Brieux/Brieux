@@ -1,8 +1,6 @@
 <h1 align="center">Salut, je m'appelle Brieux Caquelin</h1>
 <h3 align="center">Gameplay Programmer</h3>
 
-- Je suis actuellement étudiant à **l'ETPA**
-
 - Mon portofolio est [https://brieux.github.io/Portfolio](https://brieux.github.io/Portfolio)
 
 <h3 align="left">Connect with me:</h3>
